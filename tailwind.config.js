@@ -5,7 +5,8 @@ module.exports = {
     fontFamily:{
       sans:["Poppins", 'serif'],
       mono: ["Roboto Mono", 'serif'],
-      space: [ "Space Grotesk", 'serif']
+      space: [ "Space Grotesk", 'serif'],
+      poppins: ["Poppins", 'serif'],
     },
     extend: {}
   },
